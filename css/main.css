@@ -90,13 +90,17 @@ textarea {
  
  html {
 	font-size: 16px;
+  
 }
+
  
 body {
   font-size: 1em;
   font-family: 'Open Sans', sans-serif;
   color: #e2e3ed;
   text-align: left;
+  
+  
 }
  
 ul, 
@@ -625,6 +629,7 @@ input[type=button] {
   }
 
   /* Footer */
+  
   footer .content-wrapper {
     width: 65%;
     margin: 100px 0;
@@ -689,6 +694,7 @@ input[type=button] {
 
   .faq .content-wrapper {
     justify-content: space-between;
+    
   }
 
   .faq-content {
@@ -704,7 +710,9 @@ input[type=button] {
       font-size: .875em;
       line-height: 1.125;
   }
+  
 }
+
 
 @media only screen and (min-width:1200px) {
   /*Desktop styles here*/
@@ -720,7 +728,7 @@ input[type=button] {
   header nav {
     font-size: 1.125em;
   }
-  
+
   header figure {
     width: 33%;
     padding: 0px;
